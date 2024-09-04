@@ -1,0 +1,22 @@
+{
+    "title": "扣1复活",
+    "confirmButtonText": "确定",
+    "backgroundImage": {
+        "default": "./data/default.jpg",
+        "win": "./data/win.jpg",
+        "fail": "./data/fail.jpg"
+    },
+    "audio": {
+        "win": "./data/win.mp3",
+        "fail": "./data/fail.mp3"
+    },
+    "scrollingText": {
+        "win": "孩子们我回来了",
+        "fail": "孩子们我复活赛失败了"
+    },
+    "alertImage": "./data/man.jpg",
+    "alertPlaceholder": "waht can i say!",
+    "alertTitle": "扣1助力我打复活赛",
+    "validationMessage": "孩子们这并不好笑",
+    "correctInput": "2"  
+}
